@@ -212,7 +212,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="100" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd?hdnea=st=1764712257~exp=1764712407~acl=/*~hmac=4fa60643bbf2108b367e982c15f7a307c4def3f0e9593c3337dbfbb1df48583b
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai1.png"tvg-chno="101"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rai 1 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
