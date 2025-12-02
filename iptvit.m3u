@@ -212,7 +212,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="100" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=62&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai1.png"tvg-chno="101"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rai 1 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -264,9 +264,101 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiozetatv.png"tvg-chno="266"group-title="Radio":http-user-agent="",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="319"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it Valle d'Aosta"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="301"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Valle d'Aosta
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32909&output=16&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Piemonte"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="302"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Piemonte
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89763&output=16&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Liguria"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="303"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Liguria
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Lombardia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="304"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Lombardia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72916&output=16&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Veneto"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="305"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Veneto
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=17190&output=16&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Trentino Alto Adige Bolzano"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="306"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Trentino Alto Adige Bolzano
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32907&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Trentino Alto Adige Bolzano"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="306"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Trentino Alto Adige Bolzano
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32907&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Trentino Alto Adige Trento"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="307"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Trentino Alto Adige Trento
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Südtirol HD"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="308"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Südtirol HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Friuli Venezia Giulia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="309"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Friuli Venezia Giulia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Furlanija Krajina (Rai 3 Bis)"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="310"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Furlanija Krajina (Rai 3 Bis)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=87837&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Emilia-Romagna"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="311"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Emilia-Romagna
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=681&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Toscana"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="312"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Toscana
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35264&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Marche"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="313"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Marche
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72386&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Umbria"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="314"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Umbria
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32908&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Lazio"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="315"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Lazio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Abruzzo"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="316"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Abruzzo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4152&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Molise"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="317"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Molise
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Campania"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="318"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Campania
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Puglia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="319"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Puglia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89765&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Basilicata"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="320"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Basilicata
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4153&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Calabria"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="321"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Calabria
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24271&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Sardegna"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="322"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Sardegna
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=18852&output=16&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it Sicilia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png"tvg-chno="323"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Sicilia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35260&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="RadioCapitalTv.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiocapitaltv.png"tvg-chno="713"group-title="Radio":http-user-agent="",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
