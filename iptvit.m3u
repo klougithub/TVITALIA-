@@ -210,7 +210,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-id="RadioItaliaTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radioitaliatv.png"tvg-chno="70"group-title="Radio":http-user-agent="",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="100" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
+#EXTINF:-1 tvg-id="Rai4K.it"tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png"tvg-chno="100"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=62&forceUserAgent=raiplayappletv
 
