@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 
 #EXTINF:-1 tvg-id="Rai1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai1.png"tvg-chno="1"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -14,15 +14,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forc
 
 #EXTINF:-1 tvg-id="Rete4.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rete4.png"tvg-chno="4"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/canale5.png"tvg-chno="5"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/italia1.png"tvg-chno="6"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Italia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="La7.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la7.png"tvg-chno="7"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -268,15 +268,15 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 
 #EXTINF:-1 tvg-id="Rete4.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rete4.png"tvg-chno="104"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rete 4 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Canale5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/canale5.png"tvg-chno="105"group-title="Backup":http-user-agent="HbbTV/1.6.1",Canale 5 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Italia1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/italia1.png"tvg-chno="106"group-title="Backup":http-user-agent="HbbTV/1.6.1",Italia 1 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="La7.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la7.png"tvg-chno="107"group-title="Backup":http-user-agent="HbbTV/1.6.1",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
