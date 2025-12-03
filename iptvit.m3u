@@ -187,13 +187,13 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="il61.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/il61.png"tvg-chno="61"group-title="Altro":http-user-agent="",IL 61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="",Donna TV
+#EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="Mozilla/5.0 (m3u-ip.tv 3.0.9) Android",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="",ALMA TV
+#EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="Mozilla/5.0 (m3u-ip.tv 3.0.9) Android",ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio105TV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radio105tv.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
