@@ -25,7 +25,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="La7.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la7.png"tvg-chno="7"group-title="Altro":http-user-agent="",LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
 #EXTINF:-1 tvg-id="Tv8.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tv8.png"tvg-chno="8"group-title="Sky":http-user-agent="",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -79,8 +79,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV2000.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tv2000.png"tvg-chno="28"group-title="Altro":http-user-agent="",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-id="LA7 Cinema.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/LA7Cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-id=" Cinema.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/Cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1", Cinema
+https://viamotionhsi.netplus.ch/live/eds/d/browser-dash/d.mpd
 
 #EXTINF:-1 tvg-id="LA5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la5.png"tvg-chno="30"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -239,7 +239,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="La7.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la7.png"tvg-chno="107"group-title="Backup":http-user-agent="",LA7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="RadioKissKiss.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiokisskisstv.png"tvg-chno="158"group-title="Radio":http-user-agent="",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
