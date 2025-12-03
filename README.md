@@ -29,7 +29,7 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 [26] Cielo  
 [27] Twenty Seven  
 [28] TV2000  
-[29] LA7 Cinema * [beta]  
+[29] LA7 Cinema  
 [30] La 5  
 [31] Real Time  
 [32] QVC  
@@ -58,7 +58,7 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 [57] Rai Scuola   
 [58] Rai Sport + HD   
 [59] Motor Trend  
-[60] Sportitalia Plus
+[60] Sportitalia Plus  
 [61] IL 61  
 [62] Donna TV  
 [64] Supertennis  
@@ -69,13 +69,13 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 [69] Deejay TV  
 [70] RadioItaliaTV  
 [100] RAI 4K  
-[101] Rai 1 bis
-[102] Rai 2 bis
-[103] Rai 3 bis
-[104] Rete 4 bis
-[105] Canale 5 bis
-[106] Italia 1 bis
-[107] LA7 bis
+[101] Rai 1 bis  
+[102] Rai 2 bis  
+[103] Rai 3 bis  
+[104] Rete 4 bis  
+[105] Canale 5 bis  
+[106] Italia 1 bis  
+[107] LA7 bis  
 [158] RADIO KISS KISS TV  
 [202] Rai Radio 2 Visual  
 [233] RTL 102.5 News  
@@ -83,7 +83,7 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 [258] RADIOFRECCIA  
 [265] RDS Social TV  
 [266] RADIO ZETA  
-[301] to [323] Rai3 TG Regionali
+[301] to [323] Rai3 TG Regionali  
 [713] Radio Capital TV  
 [715] M2O TV  
 [772] Radio Montecarlo TV  
