@@ -52,11 +52,11 @@ https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 
-#EXTINF:-1 tvg-name="LA 1 RSI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/2560px-RSI_La_1_2012.svg.png"tvg-chno="15"group-title="Extra",LA 1 RSI
+#EXTINF:-1 tvg-name="RSI.LA.1.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/2560px-RSI_La_1_2012.svg.png"tvg-chno="15"group-title="Extra",LA 1 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-name="LA 2 RSI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/2560px-RSI_La_2_2012.svg.png"tvg-chno="16"group-title="Extra",LA 2 RSI
+#EXTINF:-1 tvg-name="RSI.LA.2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/2560px-RSI_La_2_2012.svg.png"tvg-chno="16"group-title="Extra",LA 2 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
@@ -72,7 +72,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Iris.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iris.png"tvg-chno="22"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Iris
+#EXTINF:-1 tvg-id="Iris.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iris.png"tvg-chno="22"group-title="Mediaset":http-user-agent="HbbTV1.6.1",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
