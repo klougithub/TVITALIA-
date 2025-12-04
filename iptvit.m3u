@@ -250,7 +250,15 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
+#EXTINF:-1 tvg-id="Rai4K.it"tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png"tvg-chno="99"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4K (HbbTV)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Rai4K.it"tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png"tvg-chno="100"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4K (HbbTV)
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
