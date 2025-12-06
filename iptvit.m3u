@@ -208,7 +208,7 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="RaiSport.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raisport+hd.png"tvg-chno="58"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Sport + HD
+#EXTINF:-1 tvg-id="RaiSport.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raisport.png"tvg-chno="58"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
