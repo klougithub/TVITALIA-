@@ -231,7 +231,7 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="Mozilla/5.0 (m3u-ip.tv 3.0.9) Android",ALMA TV
+#EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="HbbTV/1.6.1",ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/radio105tv.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
