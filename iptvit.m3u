@@ -30,7 +30,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
 #EXTINF:-1 tvg-id="Tv8.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/tv8.png"tvg-chno="8"group-title="Sky":http-user-agent="HbbTV/1.6.1",TV8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1765459796~exp=1765460096~acl=/*~hmac=c09e0c45840139a11d2e8c79ff8f5e090cdfa1b8edc321945a7d1be76e7357c3
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -90,7 +90,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forc
 
 #EXTINF:-1 tvg-id="CieloTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/cielo.png"tvg-chno="26"group-title="Sky":http-user-agent="HbbTV/1.6.1",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1765459872~exp=1765460172~acl=/*~hmac=abfe0036867cb0381ad41ec825dc55ed81bfbb924d01fde70e51cbbaa4c43e1a
 
 #EXTINF:-1 tvg-id="27.Twentyseven.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/twentyseven.png"tvg-chno="27"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
