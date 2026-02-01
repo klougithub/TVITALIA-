@@ -225,7 +225,7 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="Mozilla/5.0 (m3u-ip.tv 3.0.9) Android",Donna TV
-https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="HbbTV/1.6.1",Supertennis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
