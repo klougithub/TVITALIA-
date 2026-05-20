@@ -37,7 +37,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea92608afe474aea9485e5ab76dc6878:82f1f54fdc0e4a9c84dfc724fc6d5a65,ac21dbb4f0f646ec8fbda59fc53ab924:12df01146bdb685515f18b3f9380f796,052d707f2fc640a292b1548c71c4003c:aa043cb744963188ed7bec283b763d6c,94aa75fe2fca4b0891addf36760b6243:3ce405a9ffef366d05079124b1966503,fdae53ded91e4d4299accc4f0153bba9:95f1177a20f6e637d2a9c3db2ccaa901,5f2f92df28974bb3861744d420b458c9:ba3164674e98355207e0dfabcaff2900,c09bccec7f144da6b68d3d7f3f9c53bd:9cd2a48d6156bcd67aba0012a96464d2,3cb2222edfc445c6bfcd98251d980a2e:0edb8b090f2b155adabd5db806da5ffa
+#KODIPROP:inputstream.adaptive.license_key=ea92608afe474aea9485e5ab76dc6878:82f1f54fdc0e4a9c84dfc724fc6d5a65
 https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleNorba"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/Telenorba.png"tvg-chno="10"group-title="Puglia":http-user-agent="HbbTV/1.6.1",TeleNorba 
