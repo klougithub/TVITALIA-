@@ -32,11 +32,8 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE TEST 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea92608afe474aea9485e5ab76dc6878:82f1f54fdc0e4a9c84dfc724fc6d5a65
 https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
