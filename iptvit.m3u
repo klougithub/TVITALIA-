@@ -33,9 +33,8 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE TEST 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6pJgivXkeuqUheWrdtxoeA","k":"gvH1T9wOSpyE38ck_G1aZQ"},{"kty":"oct","kid":"rCHbtPD2RuyPvaWfxTq5JA","k":"Et8BFGvbaFUV8Ys_k4D3lg"},{"kty":"oct","kid":"BS1wfy_GQKKSsVSMccQAPA","k":"qgQ8t0SWMYjtfrwoO3Y9bA"},{"kty":"oct","kid":"lKp1_i_KSwiRrd82dgtiQw","k":"POQFqf_vNm0FB5EksZZlAw"},{"kty":"oct","kid":"_a5T3tkeTUKZrMxPAVO7qQ","k":"lfEXeiD25jfSqcPbLMqpAQ"},{"kty":"oct","kid":"Xy-S3yiXS7OGF0TUILRYyQ","k":"ujFkZ06YNVIH4N-rys8pAA"},{"kty":"oct","kid":"wJvM7H8UTaa2jT1_P5xTvQ","k":"nNKkjWFWvNZ6ugASqWRk0g"},{"kty":"oct","kid":"PLIiLt_ERca_zZglHZgKLg","k":"DtuLCQ8rFVrava1bgG2l-g"}],"type":"temporary"}
-https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleNorba"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/Telenorba.png"tvg-chno="10"group-title="Puglia":http-user-agent="HbbTV/1.6.1",TeleNorba 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -126,12 +125,7 @@ https://d2op4s24rubfe0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/foodnetwork.png"tvg-chno="33"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Food Network
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c848095817e54150a5461fef10669889:675d439cb2aca682e94ea6a94863744b,fae1056764404b7eaa560c5ab04f025e:4af8b96a08fca5c36df1714a8bcde042,d010da2cd777413f8c042fe51dc242b0:2c2efac083c9908a53887bde81815c93,590033039d884e53aec4a2e921289b07:bcf66bdb1bd457c411a44f71c61b9708
-https://d9kc4bu8iry3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x4si0bflc4gq7/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine34.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/cine34.png"tvg-chno="34"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -147,19 +141,11 @@ https://streamcdnr5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tb
 
 #EXTINF:-1 tvg-id="Discovery.Channel.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/discovery.png"tvg-chno="37"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Discovery TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd1223723a4f4e2e8b559bf496d4ce2d:336a493f6b609572202c27ec1ce3904c,d7e2ce610537490db0c0c6689daf7f4d:a3384da6beb1d44e6579d066f39bba2e,a72519a2df5945fe88a6cb61c81308f4:eb618f57a16391cb609c98c9b09addac,56b9f988f0d6442badbf8a14c89d3d55:2e85395010de3d6a726480fd3332d13d
-https://d3a5c87efixjp8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-94vzyl58b7u8n/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="GialloTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/giallo.png"tvg-chno="38"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Giallo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5796b9936a264399a6e7a57a673111fd:6f6e383553643d406edbcac55cf159c9,e400990becff4b918dc289a223e04081:c01ce45bfb45a39e9cd4e68f1f29cbb2,e47d3b08610441d08ad36f79e14799b8:f5221a7296f40fe6af5de182311906b1,53a634228ca045aa9b382d070985bd5c:89af33541c894bf4b080333e81f29e54
-https://d2iz84wnbtnuey.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-32xgu2ku0wsk9/out/v1/8a939414e62c460a9ccab7b699ed1106/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="TopCrime.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/topcrime.png"tvg-chno="39"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -219,11 +205,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="DMAX.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/dmax.png"tvg-chno="52"group-title="Discovery":http-user-agent="HbbTV/1.6.1",DMAX
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b50bfbff8fa14bda96d92025417d784f:8f183160378160a4494c7d3c35db96ef,eeb9d5f050034218a56d94407ced2f2d:3d32eda3dd788800a3e760b2e595110a,8d4be046476345e28da4568fc7624a78:0ffbfa70515875cac936b56ef9d9d084,720d7076ad214dcba88adb8afd93b867:1bbfef8efe5ca9d37159712db3ed1eab
-https://d24suwc4j2wvyy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09ap0j3u2xm1u/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiStoria.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raistoria.png"tvg-chno="54"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -235,11 +217,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="HGTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/homegardentv.png"tvg-chno="56"group-title="Discovery":http-user-agent="HbbTV/1.6.1",HGTV - Home&Garden
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72c68d5337a24e1090ace2cc5f104a3e:8b4c4a0b9121ba958ca2fba0b97dad7c,4494cdc4d7c34f9c98e9d0c27040b287:90ee1f2992f4510209e8f9cfbd469760,c501c9da44024cd4a1bdab655e1fe1fe:4d6c8fa6942845c87196eb5e0a4f641b,e50ba517c42642acba279ff855d76710:e8fe1fbaedef1b46275bd0d6abc751dd
-https://d21emhonubg8zy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yspg3gkuqw4f2/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raiscuola.png"tvg-chno="57"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
