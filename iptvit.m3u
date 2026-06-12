@@ -50,7 +50,7 @@ https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=
 
 #EXTINF:-1 tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/antennasud14.png"tvg-chno="14"group-title="Puglia",Antenna Sud
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/media--video-stream-2--audio-stream-1.m3u8?start=now-2h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h
 
 #EXTINF:-1 tvg-name="RSI.LA.1.ch" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/RSI_La_1.png"tvg-chno="15"group-title="Extra",LA 1 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -70,7 +70,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
 #EXTINF:-1 tvg-name="Mediaset Italia" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/MediasetItalia.png"tvg-chno="18"group-title="Puglia",Mediaset Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/events(1000)/MediasetItalia-italiano=128000.m3u8
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTINF:-1 tvg-id="20Mediaset.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/20mediaset.png"tvg-chno="20"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
