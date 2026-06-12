@@ -38,7 +38,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 
 #EXTINF:-1 tvg-id="TeleNorba"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/Telenorba.png"tvg-chno="10"group-title="Puglia":http-user-agent="HbbTV/1.6.1",TeleNorba 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-1h&end=now
 
 #EXTINF:-1 tvg-id="RADIONORBA.TV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/radionorba.png"tvg-chno="11"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio Norba TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -46,7 +46,7 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TG Norba 24"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/tgnorba24.png"tvg-chno="13"group-title="Puglia":http-user-agent="HbbTV/1.6.1",TG Norba 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-1h&end=now
 
 #EXTINF:-1 tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/antennasud14.png"tvg-chno="14"group-title="Puglia",Antenna Sud
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
