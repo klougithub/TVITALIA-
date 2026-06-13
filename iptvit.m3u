@@ -49,8 +49,8 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-1h&end=now
 
 #EXTINF:-1 tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/antennasud14.png"tvg-chno="14"group-title="Puglia",Antenna Sud
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 
 #EXTINF:-1 tvg-name="RSI.LA.1.ch" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/RSI_La_1.png"tvg-chno="15"group-title="Extra",LA 1 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -227,13 +227,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="MotorTrendTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/motortrend.png"tvg-chno="59"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Motor Trend
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/motortrend.png"tvg-chno="59"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Motor Trend
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f99c5016f4dc4cf1a420343c8512c91d:9e59bc4b39fa6bb468bd11a5fe70e2cf,efee7e58cc634e24a7964ffa978c3f6e:89fa2b9f0cb4e40f0542ba8a15f29328,6af7dcc14af74f2a8028bdfed480d8be:8fe0edb7d57b2d71fa5387b8fc6ceb17,b6f59fbdfa5042e696693d34a069d342:4085971e3b3515294b4cf8237d111d7f
-https://d1m086gym5403i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9yn62b89f3m5l/out/v1/fa965f3d7abe46108988aed4fb3d0ee5/HLS_CMAF_DRM/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/sportitalia.png"tvg-chno="60"group-title="Altro":http-user-agent="HbbTV/1.6.1",Sportitalia Plus
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -245,7 +241,7 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="HbbTV/1.6.1",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="HbbTV/1.6.1",Supertennis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -253,7 +249,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="HbbTV/1.6.1",ALMA TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/radio105tv.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -284,15 +280,15 @@ https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.
 
 #EXTINF:-1 tvg-id="Rai.1.HD..101.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rai1.png"tvg-chno="101"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rai 1 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma_1800-5000.m3u8
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai.2.HD..102.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rai2.png"tvg-chno="102"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rai 2 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raidue1-live.akamaized.net/hls/live/598310/raidue1/raidue1/playlist_ma_1800-5000.m3u8
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai.3.HD..103.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rai3.png"tvg-chno="103"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rai 3 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raitre1-live.akamaized.net/hls/live/598313/raitre1/raitre1/playlist_ma_1800-5000.m3u8
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rete4.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rete4.png"tvg-chno="104"group-title="Backup":http-user-agent="HbbTV/1.6.1",Rete 4 bis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -452,11 +448,11 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="San.Marino.RTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rtvsanmarino.png"tvg-chno="550"group-title="Radio":http-user-agent="HbbTV/1.6.1",RTV San Marino
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://smrtvlive.b-cdn.net/bcdn_token=V12BwF-oH9fVWtggQ8QlbVea4Omh1paM7JCsY7J34xs&token_path=%2Flive&expires=1765032231/live/smrtv-ch01/playlist.m3u8
+https://smrtvlive.b-cdn.net/bcdn_token=MI6HauWZ3lswsTNyqeeK9KhyRu_eR5FGHPbvEyMmiXw&token_path=%2Flive&expires=1781363764/live/smrtv-ch01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTvSerieA.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/radiotvseriea.png"tvg-chno="899"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio TV Serie A 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/dash-ch-01-prd-s-hd/index.mpd?hdnts=st=1781353527~exp=1781353567~acl=/*~hmac=6aa66b162dd61821a63fc8d5a25b5be34b5706b84bbda7f556b6d0a675f66c8f&hdcore=2.11.3
 
 #EXTINF:-1 tvg-id="Super SIX"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/supersix.png"tvg-chno="801"group-title="Altro":http-user-agent="HbbTV/1.6.1",Super SIX
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
