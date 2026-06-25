@@ -54,11 +54,15 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 
 #EXTINF:-1 tvg-name="RSI.LA.1.ch" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/RSI_La_1.png"tvg-chno="15"group-title="Extra",LA 1 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://nl1.nghk.ai/RSILa1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420,d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd
 
 #EXTINF:-1 tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/RSI_La_2.png"tvg-chno="16"group-title="Extra",LA 2 RSI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://nl1.nghk.ai/RSILa2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868,166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
 
 #EXTINF:-1 tvg-name="RAI WORLD PREMIUM" tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raiworldpremium.png"tvg-chno="17"group-title="Puglia",RAI WORLD PREMIUM
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
