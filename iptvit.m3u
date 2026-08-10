@@ -167,7 +167,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="K2.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/k2.png"tvg-chno="41"group-title="Discovery":http-user-agent="HbbTV/1.6.1",K2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"ydhOxLc1msrSK4V2SyTkzg"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQC6XSmjcoRe8iYEn2hOxQ","k":"yw46wlWbRTfP_NEwZE5SFw"},{"kty":"oct","kid":"AQENuxWvlaFwhtHCHVFY3w","k":"OhZ9feY2Hu_nXW1OygOqKg"},{"kty":"oct","kid":"AQLsBBfgFZ1FE5SCi2CLKA","k":"7tcJwS2SAgCdxtEFyVeggA"},{"kty":"oct","kid":"AQN4enM5g7MeGKq6krcUFQ","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQRyEFpSRLpLVBs7Q4Vb-w","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQVjUf-6ej5ynBIcf2KFCQ","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
 https://alwaysdata-api.zappr.stream/k2.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/raigulp.png"tvg-chno="42"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Gulp
@@ -181,7 +181,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 tvg-id="Frisbee.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/frisbee.png"tvg-chno="44"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Frisbee
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDE5i5x+CNN01HDlxnyiQ","k":"VONrgIEUn4L+3ooHO7hJ6g"},{"kty":"oct","kid":"AQW2Pv8hkPnAHJsWDN2PeA","k":"el3t07BdL3N+jKVzJhHPEA"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQAMVWEU7UcsSv_JHK8brA","k":"drHCQ7VPSJE5cKkisXwsfg"},{"kty":"oct","kid":"AQGFkO6HGNUmw9qW8iIW_A","k":"sM3ayIEFjZzF4FfbrH7YJg"},{"kty":"oct","kid":"AQIlmxEJE13ElhlIVzgM-A","k":"DuyZ3rWdxpkcbHzqTEGmSg"},{"kty":"oct","kid":"AQOJKgeBsipyucUCHO53iA","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQTcypJ0L9K8vbbQua-hmQ","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQVRTwR-ANNnB_hXM0Z1QA","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
 https://alwaysdata-api.zappr.stream/frisbee.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/cartoonito.png"tvg-chno="46"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Cartoonito
