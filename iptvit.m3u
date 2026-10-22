@@ -6,7 +6,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&for
 
 #EXTINF:-1 tvg-id="Rai2.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rai2.png"tvg-chno="2"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://raidue1-live.akamaized.net/hls/live/598310/raidue1/raidue1/playlist_ma_1800-5000.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/rai3.png"tvg-chno="3"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
