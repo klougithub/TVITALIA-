@@ -30,7 +30,11 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="Tv8.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/tv8.png"tvg-chno="8"group-title="Sky":http-user-agent="HbbTV/1.6.1",TV8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f,f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
 
 #EXTINF:-1 tvg-id="Nove.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/nove.png"tvg-chno="9"group-title="Discovery":http-user-agent="HbbTV/1.6.1",NOVE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -102,7 +106,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forc
 
 #EXTINF:-1 tvg-id="CieloTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/cielo.png"tvg-chno="26"group-title="Sky":http-user-agent="HbbTV/1.6.1",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceb42bc780dd48a986b2b286db9fdda3:385693e7df7b07b6936f28e15e480b61,c77178eaf229361b82bff5390490167f:7b30de467d675e615ff88bc9fb1f47d8
+https://wp9-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09711/stb-dash-fhd-avc/SV09711.mpd?clearkeyPlayer.audioLanguage=it
 
 #EXTINF:-1 tvg-id="27.Twentyseven.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/twentyseven.png"tvg-chno="27"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
