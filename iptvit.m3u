@@ -253,7 +253,10 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="HbbTV/1.6.1",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sole24oretv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/sole24.png"tvg-chno="63" group-title="Altro":http-user-agent="HbbTV/1.6.1",Sole 24 Ore TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="HbbTV/1.6.1",Supertennis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -261,7 +264,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="HbbTV/1.6.1",ALMA TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/radio105tv.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
