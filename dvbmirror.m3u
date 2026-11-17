@@ -387,7 +387,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&output=16&for
 
 #EXTINF:-1 tvg-id="Rai3.it Südtirol HD"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/Rai3TGR.png"tvg-chno="308"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Südtirol HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8&forceUserAgent=raiplayappletv
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it Friuli Venezia Giulia"tvg-logo="https://raw.githubusercontent.com/klougithub/TVITALIA-/refs/heads/main/TVL/Rai3TGR.png"tvg-chno="309"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Friuli Venezia Giulia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
